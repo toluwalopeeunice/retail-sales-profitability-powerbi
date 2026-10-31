@@ -10,7 +10,7 @@ The objective was to identify key revenue and profit drivers, assess performance
 
 ## Dashboard Preview
 
-![Retail Sales and Profitability Dashboard](images/dashboard.png)
+![Retail Sales and Profitability Dashboard](images/dashboard.PNG)
 
 ## Business Questions
 
